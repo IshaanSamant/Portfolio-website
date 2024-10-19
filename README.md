@@ -1,3 +1,3 @@
 # Portfolio-website
 This is a personal portfolio website.
-This website showcases my resume, personal projects and contact information.
+This website showcases my skills and projects. It is a good way to gauge my background and goals
